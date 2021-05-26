@@ -4,7 +4,7 @@ Getting Started With Machine Learning algorithms
 
 #### Implementation of machine learning algorithms based on the book 'Machine learning yearning' and comparing my implementation with standard python library implementation scikit learn
 ## Classification of machine learning
-### Superivised learning
+### Supervised learning
 * Linear regression
 * Polynomial regression
 * Logistic regression 
