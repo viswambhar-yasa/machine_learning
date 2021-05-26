@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/viswambhar-yasa/machine_learning/machine_learning_header.png" />
+<img src="https://github.com/viswambhar-yasa/machine_learning/blob/master/machine-learning-consulting-company.png" />
 </p>
 
 # Basic Machine Learning
