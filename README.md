@@ -3,7 +3,7 @@ Getting Started With Machine Learning algorithms
 ===================================
 
 #### Implementation of machine learning algorithms based on the book 'Machine learning yearning' and comparing my implementation with standard python library implementation scikit learn
-### This repository also contains assignment submitted for 'Machine learning for CMS' course 
+#### This repository also contains assignments submitted for 'Machine learning for CMS' course 
 ## Classification of machine learning
 ### Supervised learning
 * Linear regression
