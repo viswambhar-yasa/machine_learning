@@ -21,6 +21,10 @@ Getting Started With Machine Learning algorithms
 * Clustering : K-mean clustering
 * Dimensional reduction : Principle component analysis (PCA)
 
+<p align="center">
+<img src="https://github.com/viswambhar-yasa/machine_learning/blob/master/machine_learning_header.png" />
+</p>
+
 
 Implementation 
 ==================
