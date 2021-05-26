@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/viswambhar-yasa/machine_learning/machine_learning_header.png" />
+</p>
+
 # Basic Machine Learning
 Getting Started With Machine Learning algorithms 
 ===================================
