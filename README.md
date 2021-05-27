@@ -21,12 +21,13 @@ Getting Started With Machine Learning algorithms
 * Clustering : K-mean clustering
 * Dimensional reduction : Principle component analysis (PCA)
 
+All the above mentioned algorthims are implemented and tested with scikit learn library. 
 <p align="center">
 <img src="https://github.com/viswambhar-yasa/machine_learning/blob/master/machine_learning_header.png" />
 </p>
 
 
-Implementation 
+NOTE
 ==================
 
 I have also plotted decision boundary and done normalization of feature(feature scaling) and found outlier in my dataset.
